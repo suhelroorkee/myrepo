@@ -1,0 +1,14 @@
+.product{
+	width: 150px;
+	margin-right: 20px;
+}
+
+.productname{
+	text-align: center;	
+}
+
+.productimage{
+	width: 150px;
+	height: 200px;
+}
+
